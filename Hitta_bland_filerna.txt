@@ -1,0 +1,4 @@
+Vart ligger allt?
+
+"Assets" - time_remnant_game/Assets
+"all_art" - Main file
