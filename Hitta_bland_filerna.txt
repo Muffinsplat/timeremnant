@@ -2,3 +2,6 @@ Vart ligger allt?
 
 "Assets" - time_remnant_game/Assets
 "all_art" - Main file
+"Blender files" - all_art/blender files
+"Sai files" - all_art/Sai files
+"scripts" - time_remnant_games/assets/scripts
