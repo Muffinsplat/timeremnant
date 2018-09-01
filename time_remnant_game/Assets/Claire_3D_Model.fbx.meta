@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: cdd98cfca8283ed4eb59ba9d9e4437b8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body_mesh
+    100002: //RootNode
+    100004: eye_left_mesh
+    100006: eye_right_mesh
+    100008: skirt
+    100010: tofs
+    100012: Armature
+    100014: foot.L
+    100016: hand.L
+    100018: hand.L_end
+    100020: head
+    100022: head_end
+    100024: lowerarm.L
+    100026: lowerleg.L
+    100028: lowerleg.L.001
+    100030: lowerleg.L.001_end
+    100032: neck
+    100034: ponytail1
+    100036: ponytail2
+    100038: ponytail3
+    100040: ponytail4
+    100042: ponytail5
+    100044: ponytail5_end
+    100046: root
+    100048: spine1
+    100050: spine2
+    100052: thigh.L
+    100054: thumb1.L
+    100056: thumb11.L
+    100058: thumb12.L
+    100060: thumb12.L_end
+    100062: thumb2.L
+    100064: thumb2.L_end
+    100066: thumb21.L
+    100068: thumb22.L
+    100070: thumb22.L_end
+    100072: toe.L
+    100074: toe.L_end
+    100076: upperarm.L
+    400000: body_mesh
+    400002: //RootNode
+    400004: eye_left_mesh
+    400006: eye_right_mesh
+    400008: skirt
+    400010: tofs
+    400012: Armature
+    400014: foot.L
+    400016: hand.L
+    400018: hand.L_end
+    400020: head
+    400022: head_end
+    400024: lowerarm.L
+    400026: lowerleg.L
+    400028: lowerleg.L.001
+    400030: lowerleg.L.001_end
+    400032: neck
+    400034: ponytail1
+    400036: ponytail2
+    400038: ponytail3
+    400040: ponytail4
+    400042: ponytail5
+    400044: ponytail5_end
+    400046: root
+    400048: spine1
+    400050: spine2
+    400052: thigh.L
+    400054: thumb1.L
+    400056: thumb11.L
+    400058: thumb12.L
+    400060: thumb12.L_end
+    400062: thumb2.L
+    400064: thumb2.L_end
+    400066: thumb21.L
+    400068: thumb22.L
+    400070: thumb22.L_end
+    400072: toe.L
+    400074: toe.L_end
+    400076: upperarm.L
+    2100000: socks_material
+    2100002: underskirt_material
+    2100004: skin
+    2100006: BOUF
+    2100008: NOSE
+    2100010: skirt_material
+    2100012: skirt_shadow_material
+    2100014: UNDER
+    2100016: LIPSandeyesocket
+    2100018: UNDERLIPS
+    2100020: NOSTRILSandeyelashes
+    2100022: HAIR
+    2100024: UNDEREYEBROW
+    2100026: hairshadow
+    2100028: tofs_color
+    2100030: eyesshadow
+    2100032: black
+    2100034: iris_shadow
+    2100036: eyes
+    2100038: iris
+    2100040: eyesshadow.004
+    2100042: black.004
+    2100044: iris_shadow.004
+    2100046: eyes.004
+    2100048: iris.004
+    2300000: body_mesh
+    2300002: eye_left_mesh
+    2300004: eye_right_mesh
+    2300006: skirt
+    2300008: tofs
+    3300000: body_mesh
+    3300002: eye_left_mesh
+    3300004: eye_right_mesh
+    3300006: skirt
+    3300008: tofs
+    4300000: body_mesh
+    4300002: tofs
+    4300004: eye_right_mesh
+    4300006: skirt
+    4300008: eye_left_mesh
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
